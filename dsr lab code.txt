@@ -1,12 +1,4 @@
-getwd()
-list.files()
-help(vector)
-?plot
-example(mean)
-help.start()
-demo(graphics)
-
-//Program 1
+Program 1
 vec<-c(30,40,50,60,70)
 vec
 vec * 2
@@ -23,7 +15,7 @@ c(2,3,5,7)  %/% c(2,3)
 c(2,5,4,2,1,1)%%2 
 c(2,3,8,1) ^ c(2,3)
 
-//Program 2
+Program 2
 x<-c(1:15)
 x
 x[5]
